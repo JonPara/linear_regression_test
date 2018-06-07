@@ -17,11 +17,11 @@ Length of Membership: How many years the customer has been a member.
 
 # Exploring the Data Set
 
-Did analysis between time spent on the web site and the yearly amount spent:
+Did analysis between time spent on the app and the yearly amount spent:
 
 ![img_5](https://user-images.githubusercontent.com/33237727/41071120-58293e28-69c4-11e8-8fa5-2c1654599f40.JPG)
 
-Analysis between time spent on the app and the yearly amount spent:
+Analysis between time spent on the website and the yearly amount spent:
 
 ![img_4](https://user-images.githubusercontent.com/33237727/41071118-573061f4-69c4-11e8-8098-f10d13caae9e.JPG)
 
